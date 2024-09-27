@@ -20,19 +20,6 @@ MediConnect is a full-stack web application that allows patients to book appoint
 - Doctor dashboard for managing patient appointments and profiles.
 - Integrated online payment gateway for secure transactions.
 
-## Technologies Used
-- **Frontend**: 
-  - React
-  - Tailwind CSS
-- **Backend**: 
-  - Node.js
-  - Express
-- **Database**: 
-  - MongoDB
-- **Other**: 
-  - Mongoose (for MongoDB object modeling)
-  - JWT (for authentication)
-
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
 
