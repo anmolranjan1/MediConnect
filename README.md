@@ -1,8 +1,40 @@
-# React + Vite
+# MediConnect - Doctor Appointment Booking System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-Currently, two official plugins are available:
+## Overview
+MediConnect is a full-stack web application that allows patients to book appointments with doctors online. The platform provides a seamless user experience with features for user authentication, role-based access, appointment management, and online payments. Built with the MERN stack, it ensures high performance and scalability.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- User authentication and role-based access for patients, doctors, and admins.
+- Appointment booking and cancellation functionality.
+- Responsive design for mobile and desktop users.
+- Admin panel for managing doctors, appointments, and user profiles.
+- Doctor dashboard for managing patient appointments and profiles.
+- Integrated online payment gateway for secure transactions.
+
+## Technologies Used
+- **Frontend**: 
+  - React
+  - Tailwind CSS
+- **Backend**: 
+  - Node.js
+  - Express
+- **Database**: 
+  - MongoDB
+- **Other**: 
+  - Mongoose (for MongoDB object modeling)
+  - JWT (for authentication)
+
+## Contributing
+Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
+
+## License
+This project is licensed under the MIT License.
