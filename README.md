@@ -3,11 +3,8 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Overview
 MediConnect is a full-stack web application that allows patients to book appointments with doctors online. The platform provides a seamless user experience with features for user authentication, role-based access, appointment management, and online payments. Built with the MERN stack, it ensures high performance and scalability.
